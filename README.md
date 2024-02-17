@@ -6,3 +6,13 @@ real-time open-vocabulary object detector.
   <p>
     <a href="https://www.youtube.com/channel/UCyB_7yHs7y8u9rONDSXgkCg?view_as=subscriber" target="_blank">
       <img width="100%" src="https://github.com/noorkhokhar99/real-time-open-vocabulary-object-detector/blob/main/download.png?raw=true"></a>
+
+
+
+
+
+
+      Reference 
+
+      https://www.yoloworld.cc/
+      https://blog.roboflow.com/how-to-detect-objects-with-yolo-world/
