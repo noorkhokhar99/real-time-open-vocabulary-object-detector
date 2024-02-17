@@ -12,7 +12,7 @@ real-time open-vocabulary object detector.
 
 
 
-      Reference 
+       Reference 
 
       https://www.yoloworld.cc/
       https://blog.roboflow.com/how-to-detect-objects-with-yolo-world/
